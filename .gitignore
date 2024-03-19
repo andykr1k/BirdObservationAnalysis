@@ -1,0 +1,7 @@
+target
+*.swp
+.idea
+bin
+lib
+*.zip
+*.bz2

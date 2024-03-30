@@ -1,4 +1,0 @@
-Which join operation was used when joining the observation ratio with the zip code dataset in task 2?
-Equi-Join
-Spatial Join
-Raptor Join
